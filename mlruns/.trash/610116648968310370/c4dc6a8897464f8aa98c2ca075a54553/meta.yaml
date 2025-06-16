@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/610116648968310370/c4dc6a8897464f8aa98c2ca075a54553/artifacts
+deleted_time: 1749920362493
+end_time: 1749919478975
+entry_point_name: ''
+experiment_id: '610116648968310370'
+lifecycle_stage: deleted
+run_id: c4dc6a8897464f8aa98c2ca075a54553
+run_name: glamorous-quail-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749919474045
+status: 3
+tags: []
+user_id: viswa

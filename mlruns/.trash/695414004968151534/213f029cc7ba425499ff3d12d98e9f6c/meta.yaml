@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695414004968151534/213f029cc7ba425499ff3d12d98e9f6c/artifacts
+deleted_time: 1749920364914
+end_time: 1749915813146
+entry_point_name: ''
+experiment_id: '695414004968151534'
+lifecycle_stage: deleted
+run_id: 213f029cc7ba425499ff3d12d98e9f6c
+run_name: adventurous-mare-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749915812962
+status: 3
+tags: []
+user_id: viswa

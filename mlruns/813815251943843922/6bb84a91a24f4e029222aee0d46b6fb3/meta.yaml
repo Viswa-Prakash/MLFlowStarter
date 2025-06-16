@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/813815251943843922/6bb84a91a24f4e029222aee0d46b6fb3/artifacts
+end_time: 1749921081924
+entry_point_name: ''
+experiment_id: '813815251943843922'
+lifecycle_stage: active
+run_id: 6bb84a91a24f4e029222aee0d46b6fb3
+run_name: stylish-ram-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749921063478
+status: 3
+tags: []
+user_id: viswa

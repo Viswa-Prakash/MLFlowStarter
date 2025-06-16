@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/719765127549852036/46c144a1adbb430bbc697797e8bf5a91/artifacts
+end_time: 1749920650592
+entry_point_name: ''
+experiment_id: '719765127549852036'
+lifecycle_stage: active
+run_id: 46c144a1adbb430bbc697797e8bf5a91
+run_name: casual-snail-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920620231
+status: 3
+tags: []
+user_id: viswa

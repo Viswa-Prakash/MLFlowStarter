@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/610116648968310370/6d98a492dc34420b96af272308631617/artifacts
+deleted_time: 1749920362493
+end_time: 1749920154294
+entry_point_name: ''
+experiment_id: '610116648968310370'
+lifecycle_stage: deleted
+run_id: 6d98a492dc34420b96af272308631617
+run_name: stately-shrike-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920137503
+status: 3
+tags: []
+user_id: viswa

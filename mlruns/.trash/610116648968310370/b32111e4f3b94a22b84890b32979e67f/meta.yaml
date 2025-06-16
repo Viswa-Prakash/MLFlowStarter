@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/610116648968310370/b32111e4f3b94a22b84890b32979e67f/artifacts
+deleted_time: 1749920362493
+end_time: 1749919882444
+entry_point_name: ''
+experiment_id: '610116648968310370'
+lifecycle_stage: deleted
+run_id: b32111e4f3b94a22b84890b32979e67f
+run_name: orderly-colt-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749919874456
+status: 3
+tags: []
+user_id: viswa

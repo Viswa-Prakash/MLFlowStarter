@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/695414004968151534/fe6b0ddff9104d9788443dddd8f500dd/artifacts
+deleted_time: 1749915835606
+end_time: 1749915776694
+entry_point_name: ''
+experiment_id: '695414004968151534'
+lifecycle_stage: deleted
+run_id: fe6b0ddff9104d9788443dddd8f500dd
+run_name: whimsical-ant-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749915776415
+status: 4
+tags: []
+user_id: viswa

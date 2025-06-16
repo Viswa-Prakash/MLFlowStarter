@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/303447783252590138/86bf44428fad439a8c5cfbc1e5c4c765/artifacts
+end_time: 1749921025271
+entry_point_name: ''
+experiment_id: '303447783252590138'
+lifecycle_stage: active
+run_id: 86bf44428fad439a8c5cfbc1e5c4c765
+run_name: amusing-carp-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749920989788
+status: 3
+tags: []
+user_id: viswa
